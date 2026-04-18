@@ -122,7 +122,7 @@ Atau gunakan Live Server di VS Code:
 
 | NIS | Password | Nama | Kelas |
 |-----|----------|------|-------|
-| `2024001` | `permata2024` | Ahmad Fauzan Pratama | Kelas 9A SMP |
+| `2024001` | `permata2024` | Agus Satria Adhitama | Kelas 9A SMP |
 | `2024002` | `papua123` | Siti Rahmawati Abubakar | Kelas 7B SMP |
 
 ---
